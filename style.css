@@ -1,4 +1,23 @@
-html {
-  height: 100%;
-  width: 100%;
+div {
+  font-size: 50px;
+  text-align: center;
+}
+
+.divOne{
+  color: red;
+  background-color: yellow;
+}
+.divTwo{
+  color: green;
+}
+.divThree{
+  color: blue;
+}
+.myfirstclass{
+  background-color: #f41616;
+
+}
+
+body {
+  background-color: yellow;
 }
